@@ -10,7 +10,6 @@
     "moduleResolution": "node",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
-    "baseUrl": "./src",
     "rootDir": "./src",
     "outDir": "./dist",
     "sourceMap": true,
